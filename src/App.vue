@@ -9,6 +9,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
+  created(){
+      document.title = "Vishal Khare"
+  },
   components: {
     HelloWorld
   }
