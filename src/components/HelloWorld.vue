@@ -14,6 +14,7 @@
           <b-nav-item class="btn-green-nav" href="#patents">2.Patents & Certifications</b-nav-item>
           <b-nav-item class="btn-green-nav" href="#projects">3.Projects</b-nav-item>
           <b-nav-item class="btn-green-nav" href="#contact">4.Contact</b-nav-item>
+          <b-nav-item class="btn-green-nav" href="https://vishalkhare.tech/resume.pdf" target="_blank">4.Resume&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
           <!-- <b-nav-item class="btn-green-nav" href="#">5.Résumé&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item> -->
           <b-nav-item class="btn-green-nav" href="http://iamvishalkhare.medium.com/" target="_blank">5.Articles&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
         </b-navbar-nav>
@@ -255,7 +256,7 @@
 
           <div class="color-offwhite size-20px text-padding">
           <div class="project-name">
-            <a href="https://iamvishalkhare.medium.com/cloud-scheduler-trigger-cloud-functions-using-cloud-pub-sub-and-twilio-4851f7839758" target="_blank">2. Automated love calls to girlfriend&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
+            <a href="https://iamvishalkhare.medium.com/cloud-scheduler-trigger-cloud-functions-using-cloud-pub-sub-and-twilio-4851f7839758" target="_blank">3. Automated love calls to girlfriend&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
           </div>
           <div class="project-detail">
             Using GCP's cloud function, cloud scheduler, cloud pub/sub and Twilio's programmable voice API, I developed a system that calls my girlfriend everyday at 15:00 hrs to let her know that i love her.
