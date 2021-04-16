@@ -45,7 +45,7 @@
             </div>
             
             <div class="color-offwhite line-height-more  size-16px">
-              I'm a senior software engineer at The Bank of New York Mellon. Specializing in building (and occasionally designing) exceptional web applications, cloud infrastructure and everything in between.
+              I'm a senior software engineer at The Bank of New York Mellon. Specializing in building (and occasionally designing) exceptional web applications, cloud infrastructure and everything in between
             </div>
             <div>
               <b-row class="btn-group">
