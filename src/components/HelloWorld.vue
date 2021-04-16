@@ -66,9 +66,6 @@
                   <a href="https://www.linkedin.com/in/iamvishalkhare/" target="_blank"><img src="../assets/linkedin.svg" alt="linkedin" class="svg-class" v-b-tooltip.hover title="Linkedin.com"/></a>
                 </b-col>
                 <b-col>
-                  <a href="https://www.instagram.com/iam_vishalkhare/" target="_blank"><img src="../assets/instagram.svg" alt="instagram" class="svg-class" v-b-tooltip.hover title="Instagram.com"/></a>
-                </b-col>
-                <b-col>
                   <a href="https://twitter.com/iam_vishalkhare" target="_blank"><img src="../assets/twitter.svg" alt="twitter" class="svg-class" v-b-tooltip.hover title="twitter.com"/></a>
                 </b-col>
                 <b-col>
