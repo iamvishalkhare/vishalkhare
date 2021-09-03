@@ -45,7 +45,7 @@
             </div>
             
             <div class="color-offwhite line-height-more  size-16px">
-              I'm a senior software engineer at The Bank of New York Mellon. Specializing in building (and occasionally designing) exceptional web applications, cloud infrastructure and everything in between
+              I'm a Software Development Engineer - II at TATA 1mg. Specializing in building (and occasionally designing) exceptional web applications, cloud infrastructure and everything in between
             </div>
             <div>
               <b-row class="btn-group">
@@ -97,25 +97,25 @@
         </b-col>
         <b-col>
           <div class="color-offwhite size-20px text-padding">
-            Hello! I'm Vishal, a senior software engineer at <a target="_blank" href="https://www.bnymellon.com/">The Bank of New York Mellon.&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
+            Hello! I'm Vishal, a software development engineer - II at <a target="_blank" href="https://www.1mg.com/">TATA 1mg.&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
             <br>
             <br>
             I enjoy building things that live on the web. whether that be websites, applications, or anything in between. My goal is to always build products that provide high performant experiences. I am also a cloud enthusiast. GCP and AWS feels like home to me.
             <br>
             <br>
             Shortly after graduating from <a target="_blank" href="http://www.nitjsr.ac.in/">National Institute of Technology, Jamshedpur&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>, I joined the engineering team at <a target="_blank" href="https://www.americanexpress.com/in/">American Express.</a>
-            Currently at <a target="_blank" href="https://www.bnymellon.com/">The Bank of New York Mellon&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a> I work on wide array of interesting and meaningful projects on a daily basis.
+            Currently at <a target="_blank" href="https://www.1mg.com/">TATA 1mg&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a> I am leading Ad monetization team.
             <br>
             <br>
             Here are few technologies I've been working with recently
             <b-row>
               <b-col>
                 <ul class="tech-list">
+                  <li>Python, Flask, Sanic</li>
+                  <li>TypeScript</li>
                   <li>Java, Spring</li>
-                  <li>JavaScript, Vue</li>
-                  <li>Python, Flask</li>
                   <li>Golang</li>
-                  <li>TypeScript, Angular</li>
+                  <li>Angular, Vue</li>
                 </ul>
               </b-col>
               <b-col>
@@ -143,6 +143,19 @@
             <ul>
               <li>
                 <span></span>
+                <div class="company-name">TATA 1mg</div>
+                <div>Software Development Engineer - II</div>
+                <div></div>
+                <div class="color-offwhite line-height-more  size-16px">
+                  At TATA 1mg I lead <span class="color-green">Ad monetization team</span>. My job is to enhance the relevancy of banner and sponsored ads displayed on 1mg platform.
+            </div>
+                <div class="year">
+                  <span>Present</span>
+                  <span>07/2021</span>
+                </div>
+              </li>
+              <li>
+                <span></span>
                 <div class="company-name">Bank of New York Mellon</div>
                 <div>Senior Application Developer</div>
                 <div></div>
@@ -150,7 +163,7 @@
                   At BNY Mellon I work in the HR technology team. I develop technologies to support HR functions. As an internal contribution, I led a team of 4 to develop a <span class="color-green">Devops Dashboard</span> for the bank.<br>Just recently I have concluded an extensive POC to determine whether <span class="color-green">Apache ranger</span> can satisfy federated authentication and authorization needs for HR technology's data warehouse.
             </div>
                 <div class="year">
-                  <span>Present</span>
+                  <span>06/2021</span>
                   <span>04/2019</span>
                 </div>
               </li>
