@@ -14,9 +14,9 @@
           <b-nav-item class="btn-green-nav" href="#patents">2.Patents & Certifications</b-nav-item>
           <b-nav-item class="btn-green-nav" href="#projects">3.Projects</b-nav-item>
           <b-nav-item class="btn-green-nav" href="#contact">4.Contact</b-nav-item>
-          <b-nav-item class="btn-green-nav" href="https://vishalkhare.tech/resume.pdf" target="_blank">4.Resume&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
+          <b-nav-item class="btn-green-nav" href="https://vishalkhare.com/resume.pdf" target="_blank" @click="navResume()">5.Resume&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
           <!-- <b-nav-item class="btn-green-nav" href="#">5.Résumé&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item> -->
-          <b-nav-item class="btn-green-nav" href="http://iamvishalkhare.medium.com/" target="_blank">5.Articles&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
+          <b-nav-item class="btn-green-nav" href="http://iamvishalkhare.medium.com/" target="_blank" @click="navMedium()">6.Articles&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
         </b-navbar-nav>
       </b-collapse>
       
@@ -57,7 +57,7 @@
               <br>
               <b-row>
                 <b-col>
-                  <a href="http://iamvishalkhare.medium.com/" target="_blank"><img src="../assets/medium.svg" alt="instagram" class="svg-class" v-b-tooltip.hover title="Medium.com"/></a>
+                  <a href="http://iamvishalkhare.medium.com/" target="_blank" @click="navMedium()"><img src="../assets/medium.svg" alt="instagram" class="svg-class" v-b-tooltip.hover title="Medium.com" /></a>
                 </b-col>
                 <b-col>
                   <a href="https://github.com/iamvishalkhare" target="_blank"><img src="../assets/github.svg" alt="github" class="svg-class" v-b-tooltip.hover title="Github.com"/></a>
@@ -112,7 +112,7 @@
               <b-col>
                 <ul class="tech-list">
                   <li>Python, Flask, Sanic</li>
-                  <li>TypeScript</li>
+                  <li>TypeScript, JavaScript</li>
                   <li>Java, Spring</li>
                   <li>Golang</li>
                   <li>Angular, Vue</li>
@@ -124,6 +124,7 @@
                   <li>Oracle,Mysql</li>
                   <li>Elasticsearch, Solr, Redis</li>
                   <li>Hadoop, Hive, Apache Ranger</li>
+                  <li>Kafka, AWS SQS</li>
                 </ul>
               </b-col>
             </b-row>
@@ -228,6 +229,7 @@
             <img src="../assets/ace.png" class="cert-icon">
             <img src="../assets/oracle.png" class="cert-icon">
           </div>
+          <div><a href="https://vishalkhare.com/digital_marketing.pdf" target="_blank">Google Digital Unlocked - Fundamentals of Digital Marketing&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a></div>
           </div>
            
         </b-col>
@@ -376,6 +378,20 @@ export default {
           this.msg_loader = false;
           console.log(error);
         });
+      },
+      navResume: function() {
+          this.$gtag.event('click', {
+          'event_category': 'Resume',
+          'event_label': 'Resume-click',
+          'value': 1
+        })
+      },
+      navMedium: function() {
+        this.$gtag.event('click', {
+          'event_category': 'Medium',
+          'event_label': 'medium-click',
+          'value': 1
+        })
       }
   },
   mounted: function () {

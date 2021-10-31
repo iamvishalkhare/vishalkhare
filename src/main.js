@@ -5,6 +5,11 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import firebase from 'firebase'
 import VueContentPlaceholders from 'vue-content-placeholders'
+import VueGtag from "vue-gtag";
+
+Vue.use(VueGtag, {
+  config: { id: "G-PDDGBNWBPG" }
+});
 
 Vue.config.productionTip = false
     // Install BootstrapVue
@@ -23,7 +28,7 @@ new Vue({
             storageBucket: "vishalkhare-b30bb.appspot.com",
             messagingSenderId: "390151245630",
             appId: "1:390151245630:web:5bb30f68224296d72ce66f",
-            measurementId: "G-JXFQ46TL8C"
+            measurementId: "G-PDDGBNWBPG"
         })
     }
 }).$mount('#app')
