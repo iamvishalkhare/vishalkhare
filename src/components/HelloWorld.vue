@@ -354,7 +354,7 @@ export default {
           this.api_msg = 'All fields are mandatory.';
           return;
         }
-        axios.post('https://asia-south1-vishalkhare-b30bb.cloudfunctions.net/sayhello',
+        axios.post('https://3imnnh6u18.execute-api.ap-south-1.amazonaws.com/default/vishalkhare-say-hello',
         {
             message: {
               sender_name: this.sender_name,
@@ -363,14 +363,14 @@ export default {
             }
         }).then((response) => {
           console.log(response);
-          if (response.data.status) {
-            this.api_msg = response.data.msg;
+          if (response.data.statusCode == 200) {
+            this.api_msg = response.data.body;
             this.msg_loader = false;
             this.sender_name = '';
             this.sender_email = '';
             this.sender_message = '';
           } else {
-            this.api_msg = response.data.msg;
+            this.api_msg = response.data.body;
             this.msg_loader = false;
           }
         }, (error) => {
