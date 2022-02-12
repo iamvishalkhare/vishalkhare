@@ -14,7 +14,7 @@
           <b-nav-item class="btn-green-nav" href="#patents">2.Patents & Certifications</b-nav-item>
           <b-nav-item class="btn-green-nav" href="#projects">3.Projects</b-nav-item>
           <b-nav-item class="btn-green-nav" href="#contact">4.Contact</b-nav-item>
-          <b-nav-item class="btn-green-nav" href="https://vishalkhare.com/resume.pdf" target="_blank" @click="navResume()">5.Resume&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
+          <b-nav-item class="btn-green-nav" href="https://s3.ap-south-1.amazonaws.com/vishalkhare.com/docs/resume.pdf" target="_blank" @click="navResume()">5.Resume&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
           <!-- <b-nav-item class="btn-green-nav" href="#">5.Résumé&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item> -->
           <b-nav-item class="btn-green-nav" href="http://iamvishalkhare.medium.com/" target="_blank" @click="navMedium()">6.Articles&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></b-nav-item>
         </b-navbar-nav>
@@ -229,7 +229,7 @@
             <img src="../assets/ace.png" class="cert-icon">
             <img src="../assets/oracle.png" class="cert-icon">
           </div>
-          <div><a href="https://vishalkhare.com/digital_marketing.pdf" target="_blank">Google Digital Unlocked - Fundamentals of Digital Marketing&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a></div>
+          <div><a href="https://s3.ap-south-1.amazonaws.com/vishalkhare.com/docs/digital_marketing.pdf" target="_blank">Google Digital Unlocked - Fundamentals of Digital Marketing&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a></div>
           </div>
            
         </b-col>
