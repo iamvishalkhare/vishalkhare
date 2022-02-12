@@ -226,7 +226,7 @@
             Won pretigious American Express Platinum Genius Medal 2018 for my co-invention - <a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20200143262.PGNR.&OS=DN/20200143262&RS=DN/20200143262" target="_blank">US Patent No. 16/178,404 - INFORMATION SUPPORT SYSTEM USING ARTIFICIAL INTELLIGENCE&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
           </div>
           <div>
-            <img src="../assets/ace.png" class="cert-icon">
+            <a target="_blank" href="https://www.credential.net/d7957e12-4ba0-4ff9-9f90-fc105765f6f5"><img src="../assets/ace.png" class="cert-icon"><b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
             <img src="../assets/oracle.png" class="cert-icon">
           </div>
           <div><a href="https://s3.ap-south-1.amazonaws.com/vishalkhare.com/docs/digital_marketing.pdf" target="_blank">Google Digital Unlocked - Fundamentals of Digital Marketing&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a></div>
