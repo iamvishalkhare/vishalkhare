@@ -45,7 +45,7 @@
             </div>
             
             <div class="color-offwhite line-height-more  size-16px">
-              I'm a Software Development Engineer - III at TATA 1mg. Specializing in building (and occasionally designing) exceptional web applications, cloud infrastructure and everything in between
+              I'm an Engineering Manager at TATA 1mg. Specializing in building and designing exceptional web applications, cloud infrastructure and everything in between
             </div>
             <div>
               <b-row class="btn-group">
@@ -97,7 +97,7 @@
         </b-col>
         <b-col>
           <div class="color-offwhite size-20px text-padding">
-            Hello! I'm Vishal, a software development engineer - III at <a target="_blank" href="https://www.1mg.com/">TATA 1mg.&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
+            Hello! I'm Vishal, an Engineering Manager at <a target="_blank" href="https://www.1mg.com/">TATA 1mg.&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
             <br>
             <br>
             I enjoy building things that live on the web. whether that be websites, applications, or anything in between. My goal is to always build products that provide high performant experiences. I am also a cloud enthusiast. GCP and AWS feels like home to me.
@@ -145,6 +145,24 @@
               <li>
                 <span></span>
                 <div class="company-name">TATA 1mg</div>
+                <div>Associate Engineering Manager</div>
+                <div></div>
+                <div class="color-offwhite line-height-more  size-16px">
+                  As an AEM at TATA 1mg, my portfolio includes 3 engineering teams namely - Ads
+                  Monetisation, Merchandising (Home & Category pages) and Developer Experience.
+                  I built up ads monetisation business for TATA 1mg from non-existent to nearly $500K per month in bottom
+                  line revenue.
+                  I am Responsible for quality and timely delivery of product and engineering features.
+
+            </div>
+                <div class="year">
+                  <span>Present</span>
+                  <span>04/2023</span>
+                </div>
+              </li>
+              <li>
+                <span></span>
+                <div class="company-name">TATA 1mg</div>
                 <div>Software Development Engineer - III</div>
                 <div></div>
                 <div class="color-offwhite line-height-more  size-16px">
@@ -153,7 +171,7 @@
 
             </div>
                 <div class="year">
-                  <span>Present</span>
+                  <span>03/2023</span>
                   <span>07/2022</span>
                 </div>
               </li>
@@ -240,7 +258,7 @@
           <div class="color-offwhite size-20px text-padding">
           <div>
             <!-- <b-icon-caret-right-fill></b-icon-caret-right-fill> -->
-            Won pretigious American Express Platinum Genius Medal 2018 for my co-invention - <a href="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&s1=20200143262.PGNR.&OS=DN/20200143262&RS=DN/20200143262" target="_blank">US Patent No. 16/178,404 - INFORMATION SUPPORT SYSTEM USING ARTIFICIAL INTELLIGENCE&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
+            Won pretigious American Express Platinum Genius Medal 2018 for my co-invention - <a href="https://s3.ap-south-1.amazonaws.com/vishalkhare.com/docs/information_retrieval_patent.pdf" target="_blank">US Patent No. 16/178,404 - INFORMATION SUPPORT SYSTEM USING ARTIFICIAL INTELLIGENCE&nbsp;&nbsp;<b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
           </div>
           <div>
             <a target="_blank" href="https://www.credential.net/d7957e12-4ba0-4ff9-9f90-fc105765f6f5"><img src="../assets/ace.png" class="cert-icon"><b-icon-box-arrow-up-right scale="0.8"></b-icon-box-arrow-up-right></a>
